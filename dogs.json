@@ -1,0 +1,122 @@
+[
+  {
+    "Sex": "Female",
+    "Name": "Szania",
+    "Breed": "Owczarek Australijski",
+    "DateOfBirth": "2018-05-12T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Brak informacji",
+    "FatherName": "Brak informacji"
+  },
+  {
+    "Sex": "Female",
+    "Name": "Maggie",
+    "Breed": "Owczarek Australijski",
+    "DateOfBirth": "2019-08-03T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Brak informacji",
+    "FatherName": "Brak informacji"
+  },
+  {
+    "Sex": "Male",
+    "Name": "Rocky",
+    "Breed": "Owczarek Australijski",
+    "DateOfBirth": "2017-11-20T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Maggie",
+    "FatherName": "Brak informacji"
+  },
+  {
+    "Sex": "Female",
+    "Name": "Calineczka",
+    "Breed": "Papillon",
+    "DateOfBirth": "2020-04-10T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": false,
+    "MotherName": "Brak informacji",
+    "FatherName": "Brak informacji"
+  },
+  {
+    "Sex": "Female",
+    "Name": "Laima",
+    "Breed": "Papillon",
+    "DateOfBirth": "2021-06-18T00:00:00",
+    "IsVaccinated": false,
+    "IsAlive": true,
+    "MotherName": "Brak informacji",
+    "FatherName": "Brak informacji"
+  },
+  {
+    "Sex": "Female",
+    "Name": "Paloma",
+    "Breed": "Papillon",
+    "DateOfBirth": "2022-09-01T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Laima",
+    "FatherName": "Arses"
+  },
+  {
+    "Sex": "Female",
+    "Name": "Niusia",
+    "Breed": "Papillon",
+    "DateOfBirth": "2023-03-14T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Brak informacji",
+    "FatherName": "Brak informacji"
+  },
+  {
+    "Sex": "Male",
+    "Name": "Arses",
+    "Breed": "Papillon",
+    "DateOfBirth": "2020-12-05T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Calineczka",
+    "FatherName": "Jocker"
+  },
+  {
+    "Sex": "Male",
+    "Name": "Marek",
+    "Breed": "Papillon",
+    "DateOfBirth": "2019-02-22T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Laima",
+    "FatherName": "Brak informacji"
+  },
+  {
+    "Sex": "Male",
+    "Name": "Preston",
+    "Breed": "Papillon",
+    "DateOfBirth": "2021-10-30T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Niusia",
+    "FatherName": "Marek"
+  },
+  {
+    "Sex": "Male",
+    "Name": "Tadek",
+    "Breed": "Sznaucer",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Moja z Rafa\u0000kiem",
+    "FatherName": "Pani Malinowska"
+  },
+  {
+    "Sex": "Male",
+    "Name": "Lucek",
+    "Breed": "Sznaucer",
+    "DateOfBirth": "2011-05-13T00:00:00",
+    "IsVaccinated": true,
+    "IsAlive": true,
+    "MotherName": "Kunegunda",
+    "FatherName": "Zygfryd"
+  }
+]
